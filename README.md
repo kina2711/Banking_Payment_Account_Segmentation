@@ -41,7 +41,7 @@ Bảng báo cáo chi tiết về tình hình thanh toán trong Quý 1/2024 cung 
 
 | **STT** | **Mã KH** | **Chi nhánh** | **Tên khách hàng** | **Tài khoản Casa** | **Tổng tiền GD** |
 | --- | --- | --- | --- | --- | --- |
-| 1 | CIF0001951 | NH TMCP VNC - Chi nhánh Đống Đa | CÔNG TY CP ĐẦU TƯ PHÁT TRIỂN ĐÔ THỊ SDA | CASA0001951 | 1,35354E+11 |
+| 1 | CIF0001951 | NH TMCP VNC - Chi nhánh Đống Đa | CÔNG TY CP ĐẦU TƯ PHÁT TRIỂN ĐÔ THỊ SDA | CASA0001951 | 135353710254 |
 | 2 | CIF0002560 | NH TMCP VNC - Chi nhánh Đống Đa | CÔNG TY CP SX VÀ ĐT VIỆT GAP | CASA0002560 | 22325646466 |
 | 3 | CIF0019418 | NH TMCP VNC - Chi nhánh Huế | CÔNG TY CỔ PHẦN ĐẦU TƯ THIÊN HẠ | CASA0019418 | 20306314850 |
 
