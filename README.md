@@ -14,9 +14,8 @@ Dự án này được triển khai với mục tiêu thu thập và phân tích
 ### BÀI TOÁN 1: Báo cáo tình hình hoạt động thanh toán 3 tháng đầu năm 2024
 - Truy vấn: Xem tại BAOCAO_THANHTOAN.sql
 - Kết quả:
-|  |  |  **BÁO CÁO TÌNH HÌNH THANH TOÁN QUÝ I NĂM 2024** |  |  |
-| --- | --- | --- | --- | --- |
 | **STT** | **Nội dung** | **Tháng 1/2024** | **Tháng 2/2024** | **Tháng 3/2024** |
+| --- | --- | --- | --- | --- |
 | 1 | **Số dư đầu kỳ** | 4,881,707,064 | 13,511,699,165 | 13,013,399,298 |
 | 2 | **Tiền ra** | 29,301,249,412 | 33,836,051,028 | 31,989,792,426 |
 | 3 | **Tiền vào** | 18,483,367,417 | 29,049,591,161 | 29,049,591,161 |
@@ -38,9 +37,8 @@ Bảng báo cáo chi tiết về tình hình thanh toán trong Quý 1/2024 cung 
 ### BÀI TOÁN 2: BÁO CÁO TOP 3 KHÁCH HÀNG CÓ TỔNG LƯỢNG TIỀN GIAO DỊCH (CẢ NHẬN VÀ CHUYỂN) LỚN NHẤT
 - Truy vấn: Xem tại BAOCAO_TOP3.sql
 - Kết quả:
-|  |  | TOP 3 KHÁCH HÀNG CÓ TỔNG LƯỢNG TIỀN GIAO DỊCH (CẢ NHẬN VÀ CHUYỂN) LỚN NHẤT |  |  |  |
+| **STT** | **Mã KH** | **Chi nhánh** | **Tên khách hàng** | **Tài khoản Casa** | **Tổng tiền GD** |
 | --- | --- | --- | --- | --- | --- |
-| STT | Mã KH | Chi nhánh | Tên khách hàng | Tài khoản Casa | Tổng tiền GD |
 | 1 | CIF0001951 | NH TMCP VNC - Chi nhánh Đống Đa | CÔNG TY CP ĐẦU TƯ PHÁT TRIỂN ĐÔ THỊ SDA | CASA0001951 | 1,35354E+11 |
 | 2 | CIF0002560 | NH TMCP VNC - Chi nhánh Đống Đa | CÔNG TY CP SX VÀ ĐT VIỆT GAP | CASA0002560 | 22325646466 |
 | 3 | CIF0019418 | NH TMCP VNC - Chi nhánh Huế | CÔNG TY CỔ PHẦN ĐẦU TƯ THIÊN HẠ | CASA0019418 | 20306314850 |
